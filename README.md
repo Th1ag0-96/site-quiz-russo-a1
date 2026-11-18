@@ -36,8 +36,8 @@ Cada pergunta é uma frase com uma lacuna, e você escolhe entre **2 alternativa
 1. Baixe ou clone o repositório:
 
 ```bash
-git clone https://github.com/Th1ag0-96/meu_site_python.git
-cd meu_site_python
+git clone https://github.com/Th1ag0-96/site-quiz-russo-a1.git
+cd site-quiz-russo-a1
 ```
 
 2. Instale as dependências:
